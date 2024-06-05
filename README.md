@@ -1,4 +1,3 @@
-# MY Website
 <!DOCTYPE html>
 <html lang="en">
 <head>
